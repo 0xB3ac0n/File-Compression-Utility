@@ -26,7 +26,7 @@ A simple yet powerful command-line file compression utility that supports multip
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/file-compression-utility.git
+git clone https://github.com/0xB3ac0n/file-compression-utility.git
 cd file-compression-utility
 ```
 
@@ -78,7 +78,7 @@ python main.py compress document.txt --info
 ```
 
 Example output:
-
+```
 ✅ File compressed successfully!
 📄 Input file: document.txt
 💾 Output file: document.txt.gzip
@@ -86,7 +86,7 @@ Example output:
 📊 Original size: 1024000 bytes
 📉 Compressed size: 256000 bytes
 🎯 Compression ratio: 75.00%
-
+```
 
 ## 📋 Supported Compression Methods
 
@@ -166,5 +166,5 @@ This project is open source and available under the [MIT License](LICENSE).
 <div align="center">
   <h3>🌟 If you find this project useful, please consider giving it a star! 🌟</h3>
   
-  Made with ❤️ by developers for developers
+  Made with ❤️ by 0xB3ac0n for developers
 </div>
